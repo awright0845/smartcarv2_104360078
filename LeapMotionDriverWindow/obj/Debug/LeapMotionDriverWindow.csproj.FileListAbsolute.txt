@@ -1,0 +1,17 @@
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\LeapMotionDriverWindow.csprojResolveAssemblyReference.cache
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\Controls\CircularProgressBar.baml
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\MenuWindow.baml
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\Menu\MenuButton.baml
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\Controls\CircularProgressBar.g.cs
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\DockMainScene.g.cs
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\MenuWindow.g.cs
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\Menu\VideoMenu.g.cs
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\Menu\GMapMenu.g.cs
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\Menu\MainMenu.g.cs
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\Menu\MenuButton.g.cs
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\MainWindow.g.cs
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\App.g.cs
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\LeapMotionDriverWindow_Content.g.cs
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\LeapMotionDriverWindow_MarkupCompile.cache
+D:\106_1 ntut\Applications software design practice\homework\Smartcar\smartCar-master\LeapMotionDriverWindow\obj\Debug\LeapMotionDriverWindow_MarkupCompile.lref
